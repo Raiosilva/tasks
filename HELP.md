@@ -2,10 +2,6 @@
 
 ## Getting Started
 
-´´´API developed with Java 8.´´´
-´´´Gradle ´´´
-´´´Spring Boot 2.x.x´´´
-
 
 
 ### Reference Documentation
