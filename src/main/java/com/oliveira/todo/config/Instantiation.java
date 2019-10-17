@@ -4,7 +4,6 @@ import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.TimeZone;
 
-import com.oliveira.todo.controller.dto.AuthorDTO;
 import com.oliveira.todo.model.Task;
 import com.oliveira.todo.model.User;
 import com.oliveira.todo.repository.TaskRepository;
